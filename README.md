@@ -1,5 +1,5 @@
 # node-bitbankcc
-
+test
 ## About
 
 node-bitbankccはNode.js用のbitabank.cc APIのSDKです。
